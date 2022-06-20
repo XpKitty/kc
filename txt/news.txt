@@ -6,14 +6,14 @@ Changes:
 -Extended the East-West Road
 -Added Amon Sûl (Weathertop)
 -Added more hills
--Extended Withywindle towards the Brandywine River
--Added new crafting system for extremely rare items
--Added the Spawn Stone (teleports player to spawn point, cooldown: 30 minutes)
+-Extended Withywindle
+-Added the Spawn Stone
 -Added teleportation scroll to Archet
 -Added Ewok Bow special event item
--Added Millenium Falcon crash site for May the 4th
--Added "/party tpall" command 30 minutes cooldown
+-Added Millenium Falcon crash site
+-Added "/party tpall" command
 -Added a few more NPCs
--Can now set spawn point when talking to Innkeeper
+-Can now set spawn point by
+ talking to Innkeeper
 -Added Midgewater Marshes
 -Optimized Server
