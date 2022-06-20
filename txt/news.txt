@@ -8,7 +8,8 @@ Changes:
 -Added more hills
 -Extended Withywindle
 -Added the Spawn Stone
--Added teleportation scroll to Archet
+-Added teleportation 
+ scroll to Archet
 -Added Ewok Bow special event item
 -Added Millenium Falcon crash site
 -Added "/party tpall" command
